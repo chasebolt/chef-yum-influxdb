@@ -8,8 +8,6 @@ version '0.1.0'
 source_url 'https://github.com/chasebolt/chef-yum-influxdb'
 issues_url 'https://github.com/chasebolt/chef-yum-influxdb/issues'
 
-depends 'yum', '~> 3.2'
-
 supports 'amazon'
 supports 'centos'
 supports 'fedora'
